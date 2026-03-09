@@ -4,4 +4,3 @@ numpy
 scikit-learn
 matplotlib
 tensorboard
-tensorflow==2.16.2
